@@ -1,5 +1,7 @@
 # LLM API 사용 가이드
 
+refence: https://unfinishedgod.netlify.app/2024/07/26/llm-llama3-1-vllm-api-feat-fastapi/
+
 ### 1. FastAPI 서버 실행
 
 1. **모델 경로 수정**  
